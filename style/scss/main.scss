@@ -1,0 +1,67 @@
+html {
+    font-family: 'Klee One', cursive;
+    font-size: 62.5%;
+}
+
+.nav {
+    .nav-top {
+        position: sticky;
+        margin: auto;
+        padding: 10px 0;
+        max-width: 1800px;
+        font-size: 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+
+        .nav-item {
+            &:first-child {
+                padding-right: 40px;
+            }
+
+            &:last-child {
+                padding-left: 40px;
+            }
+
+            .top-logo {
+                width: 120px;
+                height: 50px;                            
+            }
+        }
+    }
+}
+
+.top {
+    position: relative;
+
+    .top-item {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        width: 100%;
+
+        .top-title {
+            color: #ffffff;
+            font-size: 5rem;
+            margin-bottom: 50px;
+        }
+
+        .top-button {
+            color: #2864F0;
+            background-color: #ffffff;
+            font-size: 2rem;
+            font-weight: bold;
+            padding: 12px 100px;
+            border-radius: 50px;
+            transition: 0.5s;
+
+            &:hover {
+                color: #ffffff;
+                background-color: #2864F0;    
+            }
+        }
+    }
+}
