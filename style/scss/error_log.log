@@ -1,3 +1,5 @@
 09/27/21 9:01:22: main.scss - parse error: failed at `text-align: ;` /Users/hiroyuki.akimoto/Local Sites/test-site/app/public/wp-content/themes/freee-mosha/style/scss/main.scss on line 9, at column 5
 09/27/21 9:03:26: main.scss - parse error: failed at `pad` /Users/hiroyuki.akimoto/Local Sites/test-site/app/public/wp-content/themes/freee-mosha/style/scss/main.scss on line 19, at column 13
 09/27/21 9:29:44: main.scss - parse error: failed at `color: ;` /Users/hiroyuki.akimoto/Local Sites/test-site/app/public/wp-content/themes/freee-mosha/style/scss/main.scss on line 45, at column 13
+09/28/21 4:31:48: main.scss - parse error: failed at `border-radius: ;` /Users/hiroyuki.akimoto/Local Sites/test-site/app/public/wp-content/themes/freee-mosha/style/scss/main.scss on line 126, at column 9
+09/28/21 6:01:34: main.scss - parse error: failed at `line` /Users/hiroyuki.akimoto/Local Sites/test-site/app/public/wp-content/themes/freee-mosha/style/scss/main.scss on line 215, at column 17
